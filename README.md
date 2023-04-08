@@ -1,8 +1,8 @@
 # Tree-Recommender-system-using-oneAPI
-# PROBLEM STATEMENT ![image](https://user-images.githubusercontent.com/72274851/218500470-ec078b99-0a50-4b06-a2df-c09e47ecc187.png)
+# PROBLEM STATEMENT 
 Reducing Deforestation using oneAPI.
 
-# WORKING [image](https://user-images.githubusercontent.com/72274851/218503394-b52dfcc9-0620-4f44-94f5-46a09a5cc970.png)
+# WORKING
 
 The Tree recomender system can be used to reduce deforestation and increase tree cover.It totally consists of three models. 
  ✅ Forest Detector
@@ -15,7 +15,7 @@ The forest detector model takes a satellite image as input and detects area with
 All of the above mentioned models are built using oneDAL library.
 
 
-# BUILDING THE MODEL![image](https://user-images.githubusercontent.com/72274851/218499685-e8d445fc-e35e-4ab5-abc1-c32462592603.png)
+# BUILDING THE MODEL
 
 
 ![image](https://user-images.githubusercontent.com/72274851/220130227-3c48e87b-3e68-4f1c-b0e4-8e3ad9a4805a.png)
@@ -39,7 +39,7 @@ All of the above mentioned models are built using oneDAL library.
 
 ✅Testing and Decision making-
 
-# RESULTS![image](https://user-images.githubusercontent.com/72274851/218502434-f6e66043-0db0-4f85-b7f4-f33b2d33df1f.png)
+# RESULTS
 
 
 
