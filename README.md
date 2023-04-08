@@ -98,7 +98,7 @@ All of the above mentioned models are built using oneDAL,oneDNN libraries.
 https://devmesh.intel.com/projects/curb-deforestation-using-intel-oneapi
 
 
-# Aim of the project:
+# Goal of the project:
 ✅Through this project there will be 10-15% increase in number of trees per year. If this project is used efficiently it may also lead to huge increase in percentage of trees.
 
 
