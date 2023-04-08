@@ -7,8 +7,7 @@ Reducing Deforestation using oneAPI.
 The Tree recomender system can be used to reduce deforestation and increase tree cover.It totally consists of three models. 
 ### ✅ Forest Detector
 
-### ✅Soil and Temperature Detector![image](https://user-images.githubusercontent.com/102335494/230715529-771d4a0a-1d4e-4ca6-9924-1ccadeb2c4d5.png)
-
+### ✅Soil and Temperature Detector
 
 ### ✅Tree recommender 
 
@@ -25,11 +24,24 @@ All of the above mentioned models are built using oneDAL library.
 
 ![image](https://user-images.githubusercontent.com/72274851/220130227-3c48e87b-3e68-4f1c-b0e4-8e3ad9a4805a.png)
 
-✅Collecting DATA: collecting data was a very challenging as there was not enough data available on soil types and temperature.We had to create our own dataset.We used the oneAPI Data Analytics laibrary to for preprocessing the data. oneDAL library was highly useful in scaling,normalising etc.Using oneDAL library we were also able to decrease the training time.
+✅Collecting data and preprocessing: collecting data was a very challenging as there was not enough data available on soil types and temperature.We had to create our own dataset.We used the oneAPI Data Analytics laibrary to for preprocessing the data. oneDAL library was highly useful in scaling,normalising etc.Using oneDAL library we were also able to decrease the training time.
 
-✅Building a crop recommendation application involves a significant amount of research and development. During the process, I likely learned a number of things, including:
+✅Datasets used:
+## ✅ Forest Detector-Deep Globe dataset fromkaggle
 
-✅Soil Science: I likely gained a deeper understanding of soil science and the various factors that affect crop growth, such as pH levels, nutrient content, and soil moisture levels.
+## ✅Soil and Temperature Detector-created our own datset
+
+## ✅Tree recommender -created our own dataset
+
+
+✅Models used to train the dataset:
+## ✅ Forest Detector- Convolutional neural network
+
+## ✅Soil and Temperature Detector- Decision Tree Regressor,Decision Tree classifier
+
+## ✅Tree recommender- Ridge Regressor(oneDAL library)
+
+
 
 ✅Machine Learning: I likely learned about different machine learning algorithms and how they can be applied to predict crop yields and make recommendations for farmers.
 
