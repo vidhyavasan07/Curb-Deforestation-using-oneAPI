@@ -14,10 +14,6 @@ The Tree recomender system can be used to reduce deforestation and increase tree
 The forest detector model takes a satellite image as input and detects area with less or no tree cover.The latitude and longitude of the detected area is found using google earth API and then passed into the soil and temperature detector model which predicts the soil type and temperature of the area. Tree recommender model takes the predictions as input and predicts the type of tree that can be grown in that area efficiently. 
 All of the above mentioned models are built using oneDAL library.
 
-# RESULTS![image](https://user-images.githubusercontent.com/72274851/218502434-f6e66043-0db0-4f85-b7f4-f33b2d33df1f.png)
-
-
-
 
 # BUILDING THE MODEL![image](https://user-images.githubusercontent.com/72274851/218499685-e8d445fc-e35e-4ab5-abc1-c32462592603.png)
 
@@ -26,20 +22,23 @@ All of the above mentioned models are built using oneDAL library.
 
 ✅Collecting data and preprocessing: collecting data was a very challenging as there was not enough data available on soil types and temperature.We had to create our own dataset.We used the oneAPI Data Analytics laibrary to for preprocessing the data. oneDAL library was highly useful in scaling,normalising etc.Using oneDAL library we were also able to decrease the training time.
 
-✅Datasets used:
-## ✅ Forest Detector-Deep Globe dataset fromkaggle
+###✅Datasets used:
+#✅ Forest Detector-Deep Globe dataset fromkaggle
 
-## ✅Soil and Temperature Detector-created our own datset
+# ✅Soil and Temperature Detector-created our own datset
 
-## ✅Tree recommender -created our own dataset
+# ✅Tree recommender -created our own dataset
 
 
-✅Models used to train the dataset:
-## ✅ Forest Detector- Convolutional neural network
+###✅Models used to train the dataset:
+# ✅ Forest Detector- Convolutional neural network
 
-## ✅Soil and Temperature Detector- Decision Tree Regressor,Decision Tree classifier
+# ✅Soil and Temperature Detector- Decision Tree Regressor,Decision Tree classifier
 
-## ✅Tree recommender- Ridge Regressor(oneDAL library)
+# ✅Tree recommender- Ridge Regressor(oneDAL library)
+
+
+# RESULTS![image](https://user-images.githubusercontent.com/72274851/218502434-f6e66043-0db0-4f85-b7f4-f33b2d33df1f.png)
 
 
 
