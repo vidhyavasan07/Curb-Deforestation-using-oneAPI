@@ -1,8 +1,8 @@
 # Tree-Recommender-system-using-oneAPI
 # PROBLEM STATEMENT 
-Reducing Deforestation using oneAPI.
+ Continuous cutting down of trees called deforestation may have a huge impact on our ecosystem and is one of the major sources for climate change, desertification,    soil erosion, fewer crops, flooding, increased greenhouse gases in the atmosphere, and a host of problems for Indigenous people. Deforestation may lead to  sudden/drastic climatic change and also worsen the environment . By this project we can predict the forest cover increase/decrease to be addresed.
 
-# WORKING
+# WORKING    
 
 The Tree recomender system can be used to reduce deforestation and increase tree cover.It totally consists of three models. 
 
@@ -91,7 +91,8 @@ All of the above mentioned models are built using oneDAL,oneDNN libraries.
 https://devmesh.intel.com/projects/curb-deforestation-using-intel-oneapi
 
 
-
+# Aim of the project:
+✅Through this project there will be 10-15% increase in number of trees per year. If this project is used efficiently it may also lead to huge increase in percentage of trees.
 
 
 
