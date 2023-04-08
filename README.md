@@ -36,13 +36,20 @@ All of the above mentioned models are built using oneDAL,oneDNN libraries.
 
 ✅Models used to train the dataset and their respective ml/dl algorithms:
 
-      ✅ Forest Detector- Convolutional neural network
+      ✅ Forest Detector- Convolutional neural network 
 
       ✅Soil and Temperature Detector- Decision Tree Regressor,Decision Tree classifier
 
       ✅Tree recommender- Ridge Regressor(oneDAL library)
 
-✅Testing and Decision making -After the models were trained they were tested and produced a medium accuracy.The predictions can be used to effectively increase tree cover and reduce climate change,air pollution etc.
+# Testing and Decision making -
+  After the models were trained they were tested and produced a medium accuracy.The predictions can be used to effectively increase tree cover and reduce climate     change,air pollution etc..
+  
+ ✅Forest Detector               -iou_score=0.822
+ 
+ ✅Soil and Temperature Detector       -acc=0.733
+ 
+ ✅Tree Recommender                 -acc=0.852
 
 # RESULTS
 
