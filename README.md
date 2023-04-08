@@ -5,11 +5,11 @@ Reducing Deforestation using oneAPI.
 # WORKING [image](https://user-images.githubusercontent.com/72274851/218503394-b52dfcc9-0620-4f44-94f5-46a09a5cc970.png)
 
 The Tree recomender system can be used to reduce deforestation and increase tree cover.It totally consists of three models. 
-# ✅ Forest Detector
+ ✅ Forest Detector
 
-# ✅Soil and Temperature Detector
+ ✅Soil and Temperature Detector
 
-# ✅Tree recommender 
+ ✅Tree recommender 
 
 The forest detector model takes a satellite image as input and detects area with less or no tree cover.The latitude and longitude of the detected area is found using google earth API and then passed into the soil and temperature detector model which predicts the soil type and temperature of the area. Tree recommender model takes the predictions as input and predicts the type of tree that can be grown in that area efficiently. 
 All of the above mentioned models are built using oneDAL library.
