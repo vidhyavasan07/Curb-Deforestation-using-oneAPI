@@ -46,17 +46,24 @@ All of the above mentioned models are built using oneDAL,oneDNN libraries.
 
 # RESULTS
 
-✅Classification made by Forest detector-
+# ✅Classification made by Forest detector-
+
+![Screenshot 2023-04-08 193215](https://user-images.githubusercontent.com/102335494/230726084-4aa18344-2719-4666-918f-6c2db7c157d6.png)
+
+![resnet](https://user-images.githubusercontent.com/102335494/230726152-d133f448-d364-451d-8598-5abb245ca5ea.png)
+
+![image](https://user-images.githubusercontent.com/102335494/230726356-0d280d4d-189d-4898-a314-8591c5811360.png)
+
+![inceptionv3](https://user-images.githubusercontent.com/102335494/230726125-7f9d06b5-2364-4612-977b-9f4efc17279a.png)
 
 
-
-✅Prediction made by Soil-Temperature Detector
+# ✅Prediction made by Soil-Temperature Detector
 
 ![soil_detection_output](https://user-images.githubusercontent.com/102335494/230724614-0d3d32d7-7f5f-4711-8c86-d18b0f8e3367.png)
 
 
 
-✅Prediction made by Soil-Temperature Detector
+# ✅Prediction made by Soil-Temperature Detector
 
 ![tree_output](https://user-images.githubusercontent.com/102335494/230724638-29f024fe-b679-48b0-883e-0c72519aa241.png)
 
