@@ -7,7 +7,8 @@ Reducing Deforestation using oneAPI.
 The Tree recomender system can be used to reduce deforestation and increase tree cover.It totally consists of three models. 
 ### ✅ Forest Detector
 
-### ✅Soil and Temperature Detector
+### ✅Soil and Temperature Detector![image](https://user-images.githubusercontent.com/102335494/230715529-771d4a0a-1d4e-4ca6-9924-1ccadeb2c4d5.png)
+
 
 ### ✅Tree recommender 
 
