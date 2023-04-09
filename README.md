@@ -70,7 +70,7 @@ All of the above mentioned models are built using oneDAL,oneDNN libraries.
 
 
 
-# ✅Prediction made by Soil-Temperature Detector
+# ✅Prediction made by Tree Recommneder
 
 ![tree_output](https://user-images.githubusercontent.com/102335494/230724638-29f024fe-b679-48b0-883e-0c72519aa241.png)
 
