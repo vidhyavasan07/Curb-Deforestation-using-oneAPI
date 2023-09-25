@@ -1,4 +1,4 @@
-# Increasing-Tree-cover-using-oneAPI
+# Tree Recomender System
 # PROBLEM STATEMENT 
  Continuous cutting down of trees called deforestation may have a huge impact on our ecosystem and is one of the major sources for climate change, desertification,    soil erosion, fewer crops, flooding, increased greenhouse gases in the atmosphere, and a host of problems for Indigenous people. Deforestation may lead to  sudden/drastic climatic change and also worsen the environment . By this project we can predict the forest cover increase/decrease to be addresed.
 
